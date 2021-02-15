@@ -2,7 +2,4 @@
 this is simple remde file
 
 ## subtitle new
-
-just some updates
-
-on a branch
+This is bound to cause trouble
